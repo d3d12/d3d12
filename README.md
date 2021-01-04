@@ -19,7 +19,6 @@ I'm a 17 year old (1st 2021) nerd.
 </img>
 </details>
 </br >
-
 ## Statistics:
 ![stats](https://github-readme-stats.vercel.app/api?username=pixlofc&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixlofc&layout=compact&theme=dark)
