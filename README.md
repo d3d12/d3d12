@@ -5,15 +5,16 @@
 
 <details>
 <summary>About Me</summary>
+    </br >
   Sup
 </p>
 I'm a 17 year old (1st 2021) nerd.
 </p>
-- pixel
 </details>
 
 <details>
 <summary>Contact</summary>
+    </br >
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Pixel#8194
 </img>
 </details>
