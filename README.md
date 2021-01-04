@@ -1,11 +1,11 @@
-<h1 allign="center">About Me</h1>
-<p allign="center">
+<h1 align="center">About Me</h1>
+<p align="center">
   Hi I'm a 17 year old (1st 2021) nerd
 </p>
 </br>
 
-<h1 allign="center">My OSes</h1>
-<p allign="center">
+<h1 align="center">My OSes</h1>
+<p align="center">
   <a href="https://www.microsoft.com/en-us/p/windows-10-home/d76qx4bznwk4?activetab=pivot%3aoverviewtab">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   </a>&nbsp;&nbsp;
