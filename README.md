@@ -18,9 +18,7 @@ I'm a 17 year old (1st 2021) nerd.
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Pixel#8194
 </img>
 </details>
-
-<br />
-<br />
+</br >
 
 ## Statistics:
 ![stats](https://github-readme-stats.vercel.app/api?username=pixlofc&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
