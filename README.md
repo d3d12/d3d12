@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/pixlofc" target="blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  
   <a href="https://open.spotify.com/user/dikvaoh5fwrqwmqabp5mbrwoh" target="blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   
 </p>
