@@ -44,7 +44,9 @@
 </p>
 <h1 align="center">Project I'm working on</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixlofc&repo=Raindrop&theme=dark"/>
+  <a href="https://www.github.com/pixlofc/Raindrop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixlofc&repo=Raindrop&theme=dark"/>
+  </a>&nbsp;&nbsp;
 </p>
 <h1 align="center">My Stats</h1>
 <p align="center">
