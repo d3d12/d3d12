@@ -50,9 +50,9 @@
 </p>
 <h1 align="center">My Stats</h1>
 <p align="center">
+  <a href="https://tag.rc24.xyz/404350494342119425"><img src="https://tag.rc24.xyz/404350494342119425/tag.png" alt="RiiTag" /></a>
+  </br>
   <img src="https://github-readme-stats.vercel.app/api?username=pixlofc&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
-</p>
-</br>
-<p align="center">
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixlofc&layout=compact&theme=dark">
 </p>
