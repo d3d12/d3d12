@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 <p align="center">
-  Hi I'm a 17 year old (1st 2021) nerd
+  Hi I'm a 17 year old (1st 2021) mkwii/minecraft tryhard and a nerd
 </p>
 </br>
 
@@ -41,6 +41,10 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+<h1 align="center">Project I'm working on</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixlofc&repo=Raindrop&theme=dark"/>
 </p>
 <h1 align="center">My Stats</h1>
 <p align="center">
