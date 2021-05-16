@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 <p align="center">
-  Hi I'm a 17 year old (1st 2021) mkwii/minecraft tryhard and a nerd
+  Hi I'm a 18 year old (july 26th 2021) mkwii/minecraft tryhard and a nerd
 </p>
 </br>
 
