@@ -42,16 +42,12 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
-<h1 align="center">Project I'm working on</h1>
+<h1 align="center">Currently working on</h1>
 <p align="center">
-  <a href="https://www.github.com/pixlofc/catware">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pixlofc&repo=allahware-server&theme=dark"/>
-  </a>&nbsp;&nbsp;
+  <img src="https://perception.ovh/wide_white.png"/>
 </p>
 <h1 align="center">My Stats</h1>
 <p align="center">
-  <a href="https://tag.rc24.xyz/404350494342119425"><img src="https://tag.rc24.xyz/404350494342119425/tag.png" alt="RiiTag" /></a>
-  <br></br>
   <img src="https://github-readme-stats.vercel.app/api?username=pixlofc&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
   <br></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixlofc&layout=compact&theme=dark">
