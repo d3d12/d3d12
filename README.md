@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://perception.ovh/wide_white.png"/>
 </p>
-<h1 align="center">my Stats</h1>
+<h1 align="center">my stats (not quite right due to private repos)</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pixlofc&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
   <br></br>
