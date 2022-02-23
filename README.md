@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 <p align="center">
-  Hi I'm a 18 year old (july 26th 2021) mkwii/minecraft tryhard and a nerd
+  hi im a 18 year old (july 26th 2021) cpp/java/js/lua developer
 </p>
 </br>
 
@@ -12,12 +12,9 @@
   <a href="https://www.archlinux.org">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.android.com/">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  </a>&nbsp;&nbsp;
 </p>
 </br>
-<h1 align="center">Things that I know/wanna learn</h1>
+<h1 align="center">things that i know</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,11 +39,11 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
-<h1 align="center">Currently working on</h1>
+<h1 align="center">currently working on</h1>
 <p align="center">
   <img src="https://perception.ovh/wide_white.png"/>
 </p>
-<h1 align="center">My Stats</h1>
+<h1 align="center">my Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pixlofc&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
   <br></br>
