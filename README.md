@@ -1,10 +1,10 @@
-<h1 align="center">About Me</h1>
+<h1 align="center">about ne</h1>
 <p align="center">
   hi im a 18 year old (july 26th 2021) cpp/java/js/lua developer
 </p>
 </br>
 
-<h1 align="center">My OSes</h1>
+<h1 align="center">os i use</h1>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/p/windows-10-home/d76qx4bznwk4?activetab=pivot%3aoverviewtab">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
