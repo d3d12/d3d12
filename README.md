@@ -1,7 +1,7 @@
 <p align="center">
    <img src="https://discord.c99.nl/widget/theme-1/884537825201127434.png"/>
 </p>
-<h1 align="center">about ne</h1>
+<h1 align="center">about me</h1>
 <p align="center">
   hi im a 18 year old (july 26th 2021) cpp/java/js/lua developer
 </p>
