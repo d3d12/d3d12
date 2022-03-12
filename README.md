@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">about me</h1>
 <p align="center">
-  hi im a 18 year old (july 26th 2021) cpp/java/js/lua developer
+  hi im a 18 year old (updated on: 12.3.2022) cpp/java/js/lua developer
 </p>
 </br>
 
@@ -19,7 +19,7 @@
 </br>
 <h1 align="center">currently working on</h1>
 <p align="center">
-  <img src="https://perception.ovh/wide_white.png"/>
+  <img src="https://perception.ovh/wide_white.svg" width=365 height=62/>
 </p>
 <h1 align="center">my stats (not quite right due to private repos)</h1>
 <p align="center">
