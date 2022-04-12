@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://discord.c99.nl/widget/theme-1/884537825201127434.png"/>
+   [![Discord Presence](https://lanyard.cnrad.dev/api/884537825201127434)](https://discord.com/users/884537825201127434)
 </p>
 <h1 align="center">about me</h1>
 <p align="center">
