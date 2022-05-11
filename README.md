@@ -19,7 +19,7 @@
 </br>
 <h1 align="center">currently working on</h1>
 <p align="center">
-  <img src="https://perception.ovh/assets/wide_white.svg" width=365 height=62/>
+  <img src="https://panel.perception.ovh/assets/wide_white.svg" width=365 height=62/>
 </p>
 <h1 align="center">my stats (not quite right due to private repos)</h1>
 <p align="center">
