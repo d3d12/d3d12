@@ -19,11 +19,5 @@
 </br>
 <h1 align="center">currently working on</h1>
 <p align="center">
-  <img src="https://panel.perception.ovh/assets/wide_white.svg" width=365 height=62/>
-</p>
-<h1 align="center">my stats (not quite right due to private repos)</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixlofc&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixlofc&layout=compact&theme=dark">
+  <img src="https://panel.perception.ovh/assets/small_white.png" width=256 height=256/>
 </p>
