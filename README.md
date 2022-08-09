@@ -1,6 +1,3 @@
-<p align="center">
-   <img src="https://lanyard.cnrad.dev/api/884537825201127434"/>
-</p>
 <h1 align="center">about me</h1>
 <p align="center">
   hi im a 19 year old (updated on: 9.8.2022) cpp/java/js/lua developer
