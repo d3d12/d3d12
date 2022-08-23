@@ -1,7 +1,8 @@
 <h1 align="center">about me</h1>
 <p align="center">
   hi im a 19 year old (updated on: 9.8.2022) cpp/java/js/lua developer
-  
+</p>
+<p align="center">
   aka pixlofc/pixel
 </p>
 </br>
